@@ -139,4 +139,4 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## Result:
-Thus a Simple Android Application to create and design an android application for Sending SMS using Intent in Android Studio was developed and executed successfully.
+Thus a Simple Android Application to create and design an android application for Sending SMS using Intent in Android Studio was developed and executed successfully
